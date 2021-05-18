@@ -1,0 +1,24 @@
+h1{
+    text-align: left;
+    color: white;
+    background-color: black;
+    font-family: cursive;
+}
+span{
+    color: turquoise;
+    font-family: cursive;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    background-color: blueviolet;
+    font-family: cursive;
+}
+
+h3{
+    text-align: right;
+    background-color: cornflowerblue;
+    text-decoration: underline;
+    font-family: cursive;
+}
